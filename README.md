@@ -67,6 +67,4 @@ images (folder)
 ![inference_result](./inference/12.png)
 
 
-<video width="100%" height="100%" controls="controls">
-  <source src="./inference/inference_video.mp4" type="video/mp4">
-</video>
+![inference_video mp4_000000680](https://user-images.githubusercontent.com/82855597/180775979-f06621f7-26e4-4816-bd36-b687f55fafab.gif)
