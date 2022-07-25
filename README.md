@@ -23,7 +23,7 @@ Implementation a paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-th
 
 ## Data
 
-- [Kaggle_mask_detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) 사용
+- 😷[Kaggle_mask_detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) 사용
 
 ### Data detail
 
@@ -67,4 +67,6 @@ images (folder)
 ![inference_result](./inference/12.png)
 
 
-<img width="80%" src="https://user-images.githubusercontent.com/82855597/180772188-383060b8-4d8e-4b5d-b8a4-42fdf11c85ac.mp4"/>
+<video width="100%" height="100%" controls="controls">
+  <source src="./inference/inference_video.mp4" type="video/mp4">
+</video>
