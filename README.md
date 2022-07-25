@@ -15,29 +15,34 @@ Implementation a paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-th
 
 ## Weight
 
-![weight](./weight_pic.PNG)
+![weight](./image/weight_pic.PNG)
 
-- YOLOv7-X 사용
+- `YOLOv7-X` 사용
 
 
 
-## 데이터
+## Data
 
 - [Kaggle_mask_detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) 사용
 
-### 데이터 상세
+### Data detail
 
->root
->├──annotations (folder)
->├  ├── maksssksksss0.xml
->├  ├── maksssksksss1.xml
->├  ├── maksssksksssn.xml
->images (folder)
->├  ├── maksssksksss0.png
->├  ├── maksssksksss1.png
->├  ├── maksssksksssn.png
->└──dd.yaml
+```python
+root
+├──annotations (folder)
+├  ├── maksssksksss0.xml
+├  ├── maksssksksss1.xml
+├  ├── maksssksksssn.xml
+images (folder)
+├  ├── maksssksksss0.png
+├  ├── maksssksksss1.png
+├  ├── maksssksksssn.png
+└──dd.yaml
+```
 
+### Preprocessing
+
+> `xml to txt`(추가 예정)
 
 
 
