@@ -42,7 +42,7 @@ images (folder)
 
 ### Preprocessing
 
-> `xml to txt`(추가 예정)
+> `xml to txt`을 사용한 전처리(추가 예정)
 
 
 
@@ -67,5 +67,4 @@ images (folder)
 ![inference_result](./inference/12.png)
 
 
-<iframe id="video" width="648" height="364.5" src="./inference/inference_video" frameborder="0">
-</iframe>
+<img width="80%" src="https://user-images.githubusercontent.com/82855597/180772188-383060b8-4d8e-4b5d-b8a4-42fdf11c85ac.mp4"/>
