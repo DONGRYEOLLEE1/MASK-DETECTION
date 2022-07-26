@@ -33,7 +33,7 @@ root
 ├  ├── maksssksksss0.xml
 ├  ├── maksssksksss1.xml
 ├  ├── maksssksksssn.xml
-images (folder)
+├──images (folder)
 ├  ├── maksssksksss0.png
 ├  ├── maksssksksss1.png
 ├  ├── maksssksksssn.png
@@ -41,6 +41,8 @@ images (folder)
 ```
 
 ### Preprocessing
+
+> For now, preprocessed as [ROBOFLOW](https://roboflow.com/) 
 
 > `xml to txt`을 사용한 전처리(추가 예정)
 
