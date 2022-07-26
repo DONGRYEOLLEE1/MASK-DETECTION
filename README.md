@@ -43,8 +43,8 @@ root
 ### Preprocessing
 
 > For now, preprocessed as [ROBOFLOW](https://roboflow.com/) 
-
-> `xml to txt`을 사용한 전처리(추가 예정)
+<br>
+> `xml to txt`을 사용한 전처리 : `preprocessing.ipynb' 추가 예정
 
 
 
