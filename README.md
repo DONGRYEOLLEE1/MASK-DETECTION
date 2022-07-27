@@ -25,7 +25,7 @@ Implementation a paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-th
 
 - 😷[Kaggle_mask_detection](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection) 사용
 
-### Data detail
+### Data tree
 
 ```python
 root
@@ -47,6 +47,27 @@ root
 
 > [`xml to txt`](https://github.com/Isabek/XmlToTxt)을 사용한 전처리 추가 예정
 
+### Expected data tree when preprocessing
+
+```python
+root
+├──train
+├  ├──images
+├  ├  ├──images01.png
+├  ├──label
+├  ├  ├──images01.txt
+├──test
+├  ├──images
+├  ├  ├──images01.png
+├  ├──label
+├  ├  ├──images01.txt
+├──valid
+├  ├──images
+├  ├  ├──images01.png
+├  ├──label
+├  ├  ├──images01.txt
+├──data.yaml
+```
 
 ## Performance
 
